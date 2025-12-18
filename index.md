@@ -50,7 +50,7 @@ We do not knowingly collect personal information from children. If you believe w
 
 You may:
 	•	Request a copy of your data.
-	•	Request correction or deletion of your data.
+	•	Request deletion of your account/data through the app when logged-in, (Settings -> account management -> delete account).
 	•	Stop using the app at any time.
 
 ⸻
