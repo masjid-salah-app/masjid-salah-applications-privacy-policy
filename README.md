@@ -1,1 +1,1 @@
-# khizra-privacy-policy
+# masjid-salah-apps privacy policy
