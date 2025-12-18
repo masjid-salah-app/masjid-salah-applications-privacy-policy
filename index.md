@@ -1,16 +1,15 @@
-📜 Privacy Policy for Khizra App
+📜 Privacy Policy for Masjid Salah Applications
 
 Effective Date: 29 September 2025
 
-Khizra App (“we”, “our”, or “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Masjid Salah Applications (“we”, “our”, or “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ⸻
 
 1. Information We Collect
 
-When you use the Khizra App, we may collect the following information:
-	•	Account Information: Name, email, or phone number if you sign in.
-	•	QR Code Attendance: When you scan a QR code at the mosque, we record your attendance.
+When you use the Masjid Salah Applications, we may collect the following information:
+	•	Account Information: Name, email.
 	•	Device Information: Basic device details (model, OS version, app version) for app functionality and troubleshooting.
 	•	Firebase Data: We use Google Firebase for authentication, storage, and notifications.
 
@@ -22,7 +21,6 @@ We do not collect sensitive personal information unless necessary for the app’
 
 We use your information only to:
 	•	Provide prayer time schedules and mosque updates.
-	•	Track attendance through QR code scans.
 	•	Send important notifications (e.g., prayer reminders, mosque events).
 	•	Improve app functionality and user experience.
 
@@ -43,7 +41,6 @@ We do not knowingly collect personal information from children. If you believe w
 ⸻
 
 5. Data Retention & Security
-	•	Attendance and login data is stored securely in Firebase.
 	•	We keep data only as long as necessary to provide our services.
 	•	We apply appropriate safeguards to prevent unauthorized access.
 
@@ -66,5 +63,5 @@ We may update this Privacy Policy from time to time. Updates will be posted here
 
 8. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at: developer@khizramosque.org
+If you have any questions or concerns about this Privacy Policy, please contact us at: masjid.salah.app@gmail.com
 
